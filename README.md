@@ -1,2 +1,3 @@
 # TemperatureConversions
-Celcius,Fahrenheit ve Kelvin sıcaklık birimlerini birbirine tarayıcı üstünde dönüştüren program. HTML/CSS ve Javascript ile yazıldı.
+
+Program that converts temperature units Celsius, Fahrenheit and Kelvin to each other in the browser. Written in HTML/CSS and Javascript.
